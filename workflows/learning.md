@@ -19,3 +19,5 @@ a.k.a learning faster and smarter each time
 - print statements are your friend
 - debugging tools and repls are your friend
 - stacktraces are your friend
+- google is your friend
+  - google "how to debug" and read three of the results

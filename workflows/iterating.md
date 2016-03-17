@@ -20,4 +20,5 @@ a.k.a learning faster and smarter each time
 - debugging tools and repls are your friend
 - stacktraces are your friend
 - google is your friend
-  - google "how to debug" and read three of the results
+  - google "how to debug" and skim three of the results
+
