@@ -3,6 +3,7 @@ iterate
 learn software engineering, from the ground up
 ----------------------------------------------
 
+`the workflow links don't work. use the file structure above`
 
 Iterate is a repo of suggested workflows for guided self-teaching in
 software engineering concepts. 
